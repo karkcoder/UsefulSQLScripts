@@ -1,0 +1,10 @@
+https://learn.microsoft.com/en-us/sql/tools/dta/tutorial-database-engine-tuning-advisor?view=sql-server-ver16&redirectedfrom=MSDN
+https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/sql-server-performance-tuning-nine-best-practices/
+https://blog.quest.com/improve-sql-server-performance-tuning-with-these-3-tips/
+https://blog.quest.com/why-sql-performance-tuning-is-the-most-important-database-management-skill-to-have/
+https://www.brentozar.com/archive/2017/10/free-sql-server-performance-check/
+https://www.c-sharpcorner.com/UploadFile/f0b2ed/tips-to-increase-sql-server-query-performance-part-1/
+https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/
+https://medium.com/learning-sql/12-tips-for-optimizing-sql-queries-for-faster-performance-8c6c092d7af1
+https://jotelulu.com/en-gb/support/tutorials/how-to-improve-the-performance-of-sql-server-2019/
+https://learn.microsoft.com/en-us/sql/ssdt/analyze-script-performance?view=sql-server-ver16
